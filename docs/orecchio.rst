@@ -36,4 +36,4 @@ Le vibrazioni che vengono prese dal padiglione dell’orecchio vengono trasporta
 il movimento dei tre ossicini arrivano dell'endolinfa, arrivano all’organo del Corti che prende le vibrazioni e lungo il nervo acustico 
 arrivano al cervello.Una volta nel cervello nella zono che capta le vibrazioni e li rende suoni che provocano sensazioni.
 Molte cose, apparte le canzoni, a noi paiono orecchiabili come filastrocche, scioglilingua oppure poesie.
-Io ricordo un autore a cui piaceva dare un ritmo alle sue poesie, Giacomo Leopardi.
+Io ricordo un autore a cui piaceva dare un ritmo alle sue poesie, :doc:`Giacomo Leopardi<letteratura>`.
