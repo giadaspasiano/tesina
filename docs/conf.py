@@ -8,7 +8,9 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 project = 'La Musica'
-release = '0.0.1'
+release = ''
+latex_elements = { 'releasename': 'Scuola Media Salvemini - 2019/2020' }
+
 author = u'Giada Spasiano - III F'
 
 show_authors = True
