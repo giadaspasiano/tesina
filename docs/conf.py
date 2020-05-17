@@ -9,7 +9,7 @@ source_parsers = {
 }
 project = 'Tesina'
 release = '0.0.1'
-author = u'Giada Spasiano - III F - SCUOLA SECONDARIA DI I° GRADO "G. Salvemini" - San Sebastiano al Vesuvio (NA)'
+author = u'Giada Spasiano - III F'
 
 show_authors = True
 # Grouping the document tree into LaTeX files. List of tuples
