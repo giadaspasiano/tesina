@@ -61,35 +61,38 @@ Poesia e parafrasi
 
 Testo
 -----
-Sempre caro mi fu quest’ermo colle, 
 
-e questa siepe, che da tanta parte
+.. code-block:: python
 
-dell'ultimo orizzonte il guardo esclude.
+    Sempre caro mi fu quest’ermo colle, 
 
-Ma sedendo e mirando, interminati
+    e questa siepe, che da tanta parte
 
-spazi di là da quella, e sovrumani
+    dell'ultimo orizzonte il guardo esclude.
 
-silenzi, e profondissima quiete
+    Ma sedendo e mirando, interminati
 
-io nel pensier mi fingo; ove per poco
+    spazi di là da quella, e sovrumani
 
-il cor non si spaura. E come il vento
+    silenzi, e profondissima quiete
 
-odo stormir tra queste piante, io quello
+    io nel pensier mi fingo; ove per poco
 
-infinito silenzio a questa voce
+    il cor non si spaura. E come il vento
 
-vo comparando: e mi sovvien l'eterno,
+    odo stormir tra queste piante, io quello
 
-e le morte stagioni, e la presente
+    infinito silenzio a questa voce
 
-e viva, e il suon di lei. Così tra questa
+    vo comparando: e mi sovvien l'eterno,
 
-immensità s'annega il pensier mio:
+    e le morte stagioni, e la presente
 
-e il naufragar m'è dolce in questo mare.
+    e viva, e il suon di lei. Così tra questa
+
+    immensità s'annega il pensier mio:
+
+    e il naufragar m'è dolce in questo mare.
 
 Parafrasi
 ---------
