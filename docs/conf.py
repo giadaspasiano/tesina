@@ -7,7 +7,7 @@ from recommonmark.parser import CommonMarkParser
 source_parsers = {
     '.md': CommonMarkParser,
 }
-project = 'Tesina'
+project = 'La Musica'
 release = '0.0.1'
 author = u'Giada Spasiano - III F'
 
@@ -20,7 +20,7 @@ latex_documents = [
 latex_elements = {
     'extraclassoptions': 'openany,oneside'
 }
-epub_basename = u'Tesina'
+epub_basename = u'La Musica'
 # Choose the material theme
 html_theme = 'sphinx_material'
 #html_theme = 'sphinx_materialdesign_theme'
@@ -70,7 +70,7 @@ html_theme_options = {
     'base_url': 'https://giadaspasiano.github.io/tesina',
     'repo_url': 'https://github.com/giadaspasiano/tesina/',
     'repo_name': 'giadaspasiano/tesina',
-    'nav_title': 'Tesina',
+    'nav_title': 'La Musica',
     'html_minify': True,
     'css_minify': True,
     'version_dropdown': False,
