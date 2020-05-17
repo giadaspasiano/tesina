@@ -9,7 +9,6 @@ source_parsers = {
 }
 project = 'La Musica'
 release = ''
-latex_elements = { 'releasename': 'Scuola Media Salvemini - 2019/2020' }
 
 author = u'Giada Spasiano - III F'
 
@@ -20,7 +19,8 @@ latex_documents = [
     ('index', 'Tesina.tex', project, author, 'manual'),
 ]
 latex_elements = {
-    'extraclassoptions': 'openany,oneside'
+    'extraclassoptions': 'openany,oneside',
+    'releasename': 'Scuola Media Salvemini - 2019/2020'
 }
 epub_basename = u'La Musica'
 # Choose the material theme
