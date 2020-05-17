@@ -1,25 +1,13 @@
 ==================
-Chitarra elettrica
+Musica
 ==================
+Molte volte mi sono chiesta quali e quante fossero le differenze tra musica del passato e la musica che noi ascoltiamo attualmente.
 
-Nata dopo l’invenzione della Carda e l'arpa la chitarra elettrica è “ un'evoluzione “della chitarra classica.
-Grazie ad un pick-up (strumento che amplifica il suono facendolo passare dalla semplice vibrazione di corde ad impulsi elettrici). 
-Nonostante la diversità tra i vari tipi di chitarra la struttura di legno non cambia.
+Musical
+=======
+Il periodo della sua nascita è caratterizzato da due principali movimenti culturali il Futurismo movimento fondato  da Filippo Tommaso Marinetti e dall’Espressionismo movimento ispirato ai quadri di Van Gogh e Matisse.Invece in campo musicale stava mettendo le sue radici il Jazz accompagnato dalla musica classica.      
+Il musical possiamo dire che è nato il 12 Settembre del 1866 quando si esibì negli USA un gruppo di ballerini che ballavano sulla musica cantata e suonata da un'orchestra  e accompagnati da delle parole in prosa, ma ha avuto molti interessi soprattutto dopo la 2°guerra mondiale.
 
-Esistono vari tipi di chitarre una tra le più celebri è la Fender.
-
-La Fender Musical Instruments Corporation è uno dei più famosi marchi nel mondo dei costruttori di chitarre, 
-bassi elettrici, piano elettrici ed amplificatori, fondata nel 1946 da Leo Fender.
-
-Fender ricopre un ruolo importante per la sua produzione di strumenti musicali a prezzi accessibili. 
-La sua idea era quella di colmare la distanza creatasi dalla difficoltà di poter reperire buoni strumenti musicali a 
-basso costo con il suo innovativo progetto che si prestava ad una realizzazione industriale di serie. 
-Fender ha prodotto: la prima chitarra elettrica a corpo pieno prodotta in serie, 
-la Telecaster (originalmente chiamata Esquire e Broadcaster); il primo basso elettrico prodotto in serie, 
-il Precision Bass; e la Stratocaster, prima chitarra elettrica a corpo pieno con tre pickup. 
-Altri prodotti popolari sono stati: chitarre elettriche quali Mustang, Jazzmaster, Jaguar, 
-Starcaster, Duo Sonic, Jag-Stang e le chitarre Bronco; bassi elettrici quali: Jazz Bass ed il Telecaster Bass; 
-ed i famosi piano elettrici Rhodes. Le campagne di comunicazione dell'epoca puntavano tutto sul fatto 
-che questi strumenti erano facilmente trasportabili e poco ingombranti, specie le chitarre basso che andavano 
-a sostituire gli enormi contrabbassi, oltre che economici e affidabili e con un sound moderno che ha aperto 
-le porte della musica a migliaia di giovani musicisti in erba.
+Andrew Lloyd Webber
+===================
+Uno degli autori che ha avuto più successo con il musical è Andrew Lloyd Webber.Nato nel 1948 a Londra ha avuto molte collaborazioni con Tom Rice un musical molto importante che fecero insieme fu Evita. Lo stile di Lloyd-Webber all’inizio era proiettato sulla musica classica, ma successivamente è stato influenzato molta della musica leggera.Uno dei suoi più grandi capolavori è Cats.
