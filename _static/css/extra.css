@@ -1,7 +1,8 @@
-.md-logo img {
-    width: auto!important;
+@media only screen and (min-width: 1024em){
+    .md-logo img {
+        width: auto!important;
+    }
 }
-
 .md-header-nav__source {
     width: unset;
     max-width: unset;
