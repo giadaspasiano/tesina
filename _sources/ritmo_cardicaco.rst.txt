@@ -31,21 +31,21 @@ La contrazione degli arti stimola il nodo atrio-ventricolare, che con un leggero
 
 Il sistema nervoso no può generare impulsi ma li può accelerare o rallentare.Il sistema nervoso controlla il ritmo cardiaco attraverso due tipi di neuroni. Il primo tipo di nervo rilascia acetilcolina che va a rallentare  il lavoro delle fibre purkinje.Mentre un altro tipo di nervo rilascia adrenalina che va ad accelerare il battito.
  
-Hanno problemi con il ritmo cardiaco la fascia d’età che va dai 60 agli 80 anni.molto spesso si incontrano malattie come la **Tachicardia e la Bachicardia**.
+Hanno problemi con il ritmo cardiaco la fascia d’età che va dai 60 agli 80 anni.molto spesso si incontrano malattie come la `Tachicardia`_ e la `Bachicardia`_.
 
-Come si possono curare?
-=======================
+**Come si possono curare?**
 
-Bradicardia
------------
+
+Bachicardia
+===========
 E’ caratterizzata  da una frequenza cardiaca più bassa del normale (inferiore a 50 battiti al minuto). Questo può far sì che arrivi poco sangue al cervello, causando la sincope (improvvisa perdita di coscienza). Possono insorgere a seguito di infarto, per processi legati all’invecchiamento, per alterazione degli elettroliti nel sangue (soprattutto potassio), per alcuni farmaci cosiddetti ‘bradicardizzanti’, quali i beta-bloccanti e la digitale.La bradicardia è tipica  delle persone che fanno sport a livello agonistico; questa forma non rappresenta motivo di preoccupazione
 
 Tachicardia
------------
+===========
 Si definisce tachicardia un ritmo cardiaco accelerato, con un numero di pulsazioni al minuto al di sopra di 100 ma che può raggiungere anche il valore di 400. A frequenze così elevate, il cuore non è in grado di pompare efficacemente il sangue ossigenato all'interno del sistema cardio-circolatorio.La tachicardia può riguardare le camere cardiache superiori (tachicardia atriale) o quelle inferiori (tachicardia ventricolare).
 
 Bradicardia
------------
+===========
 Il trattamento della bradicardia dipende dalle cause che la determinano, indipendentemente dai sintomi.Se un danno al sistema elettrico del cuore fa sì che il cuore batta troppo lentamente, probabilmente si avrà bisogno di un pacemaker, ovvero un dispositivo posto 
 sotto la pelle, dotato di un catetere che raggiunga il cuore ed aiuti a correggere questo problema. 
 Le persone anziane hanno più probabilità di essere affette da un tipo di bradicardia che richieda l'impianto di  un pacemaker.Se un altro problema di salute, come l'ipotiroidismo uno squilibrio elettrolitico, sta provocando un rallentamento del battito cardiaco, il trattamento del problema di base potrà curare la bradicardia.
