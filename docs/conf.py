@@ -20,7 +20,7 @@ latex_documents = [
 ]
 latex_elements = {
     'extraclassoptions': 'openany,oneside',
-    'releasename': 'Scuola Media Salvemini - 2019/2020'
+    'releasename': 'Scuola Media Salvemini - A.S. 2019/2020'
 }
 epub_basename = u'La Musica'
 # Choose the material theme
