@@ -26,14 +26,10 @@ protagonisti di una guerra molto particolare cioè la Guerra fredda.
 E durante questa guerra venne formata l’associazione che noi oggi chiamiamo ONU.
 
 Mappa Concettuale
-=================
+-----------------
 
 .. image:: _images/mappa_concettuale.png
 
-.. only:: html
-
-    **Indice**
-    ------------------------------------------------
 
 .. toctree::
    :maxdepth: -1
