@@ -36,4 +36,4 @@ E durante questa guerra venne formata l’associazione che noi oggi chiamiamo ON
    ritmo_cardicaco
    orecchio
    letteratura
-   chitarra
+   musica
