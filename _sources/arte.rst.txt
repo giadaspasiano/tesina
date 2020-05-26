@@ -60,17 +60,34 @@ inizio alla corrente artistica del **cubismo.**
 Il vecchio chitarrista cieco
 ============================
 
-+------------------------------------------------------+----------------------------------------------------------------------------+
-|                                                      |Il dipinto fatto nel 1903 è stato fatto olio su tela.Ed è conservato        |
-|.. image:: _images/vecchio_chitarrista_cieco.jpg      |sull'hard institute di chicago.In questo quadro vediamo un vecchio e        |
-|                                                      |cieco mendicante su di un marciapiede intanto a suonare una chitarra che    |
-|                                                      |nel quadro occupa più spazio di lui e si contrappone nella sua rotondità    |
-|                                                      |ai tratti duri e alla magrezza del vecchio. Possiamo vedere che             |
-|                                                      |mendicante non riesce a suonare con disinvoltura, frustrato da un lungo     |
-|                                                      |periodo di pene per la sua condizione.                                      |
-|                                                      |L’unica cosa che da un pò di speranza nel quadro è la chitarra che copre    |
-|                                                      |parte dell’esile corpo del mendicante.                                      |
-+------------------------------------------------------+----------------------------------------------------------------------------+
++------------------------------------------------------+---------------------------+
+|                                                      |Il dipinto fatto nel 1903  | 
+|                                                      |è stato fatto olio su tela.|
+|                                                      |Ed è conservato            |         
+|.. image:: _images/vecchio_chitarrista_cieco.jpg      |sull'hard institute        |
+|                                                      |di chicago.In questo quadro| 
+|                                                      |vediamo un vecchio e       |
+|                                                      |cieco mendicante su di     |
+|                                                      |un marciapiede intanto a   |
+|                                                      |suonare una chitarra che   |
+|                                                      |nel quadro occupa più      | 
+|                                                      |spazio di lui e si         |
+|                                                      |contrappone nella sua      |
+|                                                      |rotondità                  |
+|                                                      |ai tratti duri e alla      |
+|                                                      |magrezza del vecchio.      |
+|                                                      |Possiamo vedere che        |
+|                                                      |mendicante non riesce      |
+|                                                      |a suonare con disinvoltura,| 
+|                                                      |frustrato da un lungo      |
+|                                                      |periodo di pene per        |
+|                                                      |la sua condizione.         |
+|                                                      |L’unica cosa che da un     |
+|                                                      |pò di speranza nel quadro  | 
+|                                                      |è la chitarra che copre    |
+|                                                      |parte dell’esile corpo     | 
+|                                                      |del mendicante.            |
++------------------------------------------------------+---------------------------+
 
 Il nome cubismo è stato dato da un giornale francese in modo scherzoso
 ispirato ad un quadro di braque per via della presenza di **cubi**.
