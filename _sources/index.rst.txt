@@ -39,3 +39,4 @@ Proprio a Cuba ci fu un’importante crisi durante la Guerra Fredda dove si è r
    musica
    tecnologia
    arte
+   matematica
