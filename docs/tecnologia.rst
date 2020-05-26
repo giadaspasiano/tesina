@@ -4,7 +4,7 @@ Tecnologia
 
 +-----------------------------------+----------------------------------------------------------------------------+
 |                                   |**Nata dopo l’invenzione della Carda e l'arpa la chitarra elettrica è “     |
-|.. thumbnail:: _images/guitar.png  |un'evoluzione“ della chitarra classica. Grazie ad un pick-up (strumento     |
+|.. image:: _images/guitar.png      |un'evoluzione“ della chitarra classica. Grazie ad un pick-up (strumento     |
 |                                   |che amplifica il suono facendolo passare dalla semplice vibrazione di       |
 |                                   |corde ad impulsi elettrici). Nonostante la diversità tra i vari tipi di     |
 |                                   |chitarra la struttura di legno non cambia.**                                |

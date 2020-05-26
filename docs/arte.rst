@@ -62,7 +62,7 @@ Il vecchio chitarrista cieco
 
 +------------------------------------------------------+----------------------------------------------------------------------------+
 |                                                      |Il dipinto fatto nel 1903 è stato fatto olio su tela.Ed è conservato        |
-|.. thumbnail:: _images/vecchio_chitarrista_cieco.jpg  |sull'hard institute di chicago.In questo quadro vediamo un vecchio e        |
+|.. image:: _images/vecchio_chitarrista_cieco.jpg      |sull'hard institute di chicago.In questo quadro vediamo un vecchio e        |
 |                                                      |cieco mendicante su di un marciapiede intanto a suonare una chitarra che    |
 |                                                      |nel quadro occupa più spazio di lui e si contrappone nella sua rotondità    |
 |                                                      |ai tratti duri e alla magrezza del vecchio. Possiamo vedere che             |
