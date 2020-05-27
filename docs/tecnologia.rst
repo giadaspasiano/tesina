@@ -2,46 +2,41 @@
 Tecnologia
 ==========
 
-.. container:: twocol
+Nata dopo l’invenzione della Carda e l'arpa la chitarra elettrica è “
+un'evoluzione “della chitarra classica .Grazie ad un pick-up (strumento
+che amplifica il suono facendolo passare dalla semplice vibrazione di
+corde ad impulsi elettrici). Nonostante la diversità tra i vari tipi di
+chitarra la struttura di legno non cambia.
 
-    .. container:: leftside
+.. image:: _images/guitar.png
 
-        .. image:: _images/guitar.png
+Fender
+======
+La Fender Musical Instruments Corporation è uno dei più famosi marchi
+nel mondo dei costruttori di chitarre, bassi elettrici, piano elettrici
+ed amplificatori, fondata nel 1946 da Leo Fender. La sua sede principale
+è situata a **Scottsdale**, Arizona ed i principali siti di produzione
+si trovano: **a Corona (California)**, OCONUS manufacturing facilities
+in **Ensenada (Mexico), in Giappone, in Corea e in Cina** dove sono
+prodotti gli strumenti della serie **Squier** e della nuova gamma
+**"Fender Modern Player"**.Fender ricopre un ruolo importante per la sua
+produzione di strumenti musicali a prezzi accessibili. La sua idea era
+quella di colmare la distanza creatasi dalla difficoltà **di poter
+reperire buoni strumenti musicali a basso costo** con il suo innovativo
+progetto che si prestava ad una realizzazione industriale di serie. Le
+campagne di comunicazione dell'epoca puntavano tutto sul fatto che
+questi strumenti erano facilmente trasportabili e poco ingombranti,
+specie le chitarre basso che andavano a sostituire gli enormi
+contrabbassi, oltre che economici e affidabili e con un sound moderno
+che ha aperto le porte della musica a migliaia di giovani musicisti in
+erba.Nel corso degli anni la Fender si è espansa notevolmente,
+inglobando nel suo gruppo industriale numerosi altri marchi, anche fra i
+più prestigiosi della storia della liuteria americana E produce ogni
+giorno **più di 2000 strumenti**.Nel 1985, la Fender Electric Instrument
+Manufacturing Company è stata venduta ai suoi dipendenti ed ha cambiato
+il suo nome in Fender Musical Instruments Corporation.La Fender spesso è
+definita una chitarra forte, perché è adatta a musicisti **Rock o PunK**
 
-    .. container:: rightside
-
-        Nata dopo l’invenzione della Carda e l'arpa la chitarra elettrica è “
-        un'evoluzione “della chitarra classica .Grazie ad un pick-up (strumento
-        che amplifica il suono facendolo passare dalla semplice vibrazione di
-        corde ad impulsi elettrici). Nonostante la diversità tra i vari tipi di
-        chitarra la struttura di legno non cambia.
-
-        Fender
-        ======
-        La Fender Musical Instruments Corporation è uno dei più famosi marchi
-        nel mondo dei costruttori di chitarre, bassi elettrici, piano elettrici
-        ed amplificatori, fondata nel 1946 da Leo Fender. La sua sede principale
-        è situata a **Scottsdale**, Arizona ed i principali siti di produzione
-        si trovano: **a Corona (California)**, OCONUS manufacturing facilities
-        in **Ensenada (Mexico), in Giappone, in Corea e in Cina** dove sono
-        prodotti gli strumenti della serie **Squier** e della nuova gamma
-        **"Fender Modern Player"**.Fender ricopre un ruolo importante per la sua
-        produzione di strumenti musicali a prezzi accessibili. La sua idea era
-        quella di colmare la distanza creatasi dalla difficoltà **di poter
-        reperire buoni strumenti musicali a basso costo** con il suo innovativo
-        progetto che si prestava ad una realizzazione industriale di serie. Le
-        campagne di comunicazione dell'epoca puntavano tutto sul fatto che
-        questi strumenti erano facilmente trasportabili e poco ingombranti,
-        specie le chitarre basso che andavano a sostituire gli enormi
-        contrabbassi, oltre che economici e affidabili e con un sound moderno
-        che ha aperto le porte della musica a migliaia di giovani musicisti in
-        erba.Nel corso degli anni la Fender si è espansa notevolmente,
-        inglobando nel suo gruppo industriale numerosi altri marchi, anche fra i
-        più prestigiosi della storia della liuteria americana E produce ogni
-        giorno **più di 2000 strumenti**.Nel 1985, la Fender Electric Instrument
-        Manufacturing Company è stata venduta ai suoi dipendenti ed ha cambiato
-        il suo nome in Fender Musical Instruments Corporation.La Fender spesso è
-        definita una chitarra forte, perché è adatta a musicisti **Rock o PunK**
 
 .. image:: _images/fender.png
 
