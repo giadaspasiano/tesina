@@ -79,3 +79,6 @@ protestantesimo )** e la nostra.
    geografia
    spagnolo
    storia
+   cittadinanza_costituzione
+   inglese
+   religione
