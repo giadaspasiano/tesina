@@ -53,7 +53,7 @@ in vari piccoli stati indipendenti per il commercio interno ed il
 governo per il commercio esterno devono tener conto di un governo che
 riguarda tutto lo stato, ed è formato da 50 stati.
 
-.. thumbnail:: _images/usa.png
+.. image:: _images/usa.png
 
 Non lontano dagli USA , nelle acque dell’Oceano Atlantico possiamo
 trovare un’isola molto conosciuta che è **Cuba** , in quest’isola
