@@ -104,4 +104,10 @@ dell'assetto politico dell'Europa moderno.
 |Credono esista il purgatorio                                                              |  Non credono che esista il purgatorio              |
 +------------------------------------------------------------------------------------------+----------------------------------------------------+
 
+“Il tempo è un pozzo nero. E la magia che abbiamo in mano noi musicisti
+è quella di stare nel tempo, di dilatare il tempo, di rubare il tempo.
+La musica, tra le tante cose belle che offre, ha la caratteristica di
+essere non un prodotto commerciale, ma tempo condiviso. E quindi in
+questo senso il tempo come noi lo intendiamo non esiste più.”cit. Ezio
+Bosso
 
