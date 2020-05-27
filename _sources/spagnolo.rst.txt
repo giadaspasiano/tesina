@@ -2,10 +2,10 @@
 Spagnolo
 ========
 
-.. image:: _images/spagnolo.png
-
 Los **Boleros** nacen en Cuba para hablar de pasiones y desengaños….en
 definitiva, de los problemas del amor.
+
+.. image:: _images/spagnolo.png
 
 En Cuba nace también el **mambo**, que no tiene nada que ver con las
 letras románticas y las melodías de los boleros.
