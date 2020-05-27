@@ -1,7 +1,6 @@
 ========
 Spagnolo
 ========
-
 Los **Boleros** nacen en Cuba para hablar de pasiones y desengaños….en
 definitiva, de los problemas del amor.
 
