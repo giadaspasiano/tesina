@@ -16,13 +16,13 @@ show_authors = True
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-    ('index', 'La Musica.tex', project, author, 'manual'),
+    ('index', 'Musica.tex', project, author, 'manual'),
 ]
 latex_elements = {
     'extraclassoptions': 'openany,oneside',
     'releasename': 'Scuola Media Salvemini - A.S. 2019/2020'
 }
-epub_basename = u'La Musica'
+epub_basename = u'Musica'
 # Choose the material theme
 html_theme = 'sphinx_material'
 #html_theme = 'sphinx_materialdesign_theme'
