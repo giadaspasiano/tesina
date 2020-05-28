@@ -2,11 +2,10 @@
 Tecnologia
 ==========
 
-Nata dopo l’invenzione della Carda e l'arpa la chitarra elettrica è “
-un'evoluzione “della chitarra classica .Grazie ad un pick-up (strumento
-che amplifica il suono facendolo passare dalla semplice vibrazione di
-corde ad impulsi elettrici). Nonostante la diversità tra i vari tipi di
-chitarra la struttura di legno non cambia.
+Dopo l’invenzione della Corda e dell’Arpa nasce la chitarra elettrica
+grazie il pick-up strumento utile che amplifica il suono facendolo
+passare dalla semplice vibrazione di corde ad impulsi elettrici, ed è
+un’evoluzione della chitarra classica
 
 .. image:: _images/guitar.png
 
@@ -37,39 +36,37 @@ Manufacturing Company è stata venduta ai suoi dipendenti ed ha cambiato
 il suo nome in Fender Musical Instruments Corporation.La Fender spesso è
 definita una chitarra forte, perché è adatta a musicisti **Rock o PunK**
 
-
 .. image:: _images/fender.png
 
 Leo Fender
 ==========
 
-Nome completo **Clarence Leonidas Fender** (Anaheim, 10 agosto 1909 –
-Fullerton, 21 marzo 1991), è stato un liutaio statunitense.Costruttore
-di bassi e chitarre elettriche, insieme a Don Kaufmann e George
-Fullerton, è stato il fondatore della Fender Musical Instruments
-Corporation.Fender fin da molto piccolo si è interessato
-all’elettronica.Subito dopo essersi laureato in economia iniziò a fare
-il contabile allo *State of California Highway Department* e
-successivamente avviò un'attività per la riparazione di apparecchi
-radio,che nel 1947 fu ampliata batterie e chitarre Broadcaster fu
-rapidamente ribattezzata **Telecaster.**\ La quale attira molto i
-giovani per il fatto che corpo e manico sono uniti solo da poche viti
-cioè possono essere staccati facilmente e questo riduce di gran lungo il
-costo.Poi ci fu nel 1954 l’innovazione della **Stratocaster** con il
-tremolio, grazie al quale si può avere un effetto bello ed
-innovativo.Nel 1965, in cattive condizioni di salute, Fender vendette la
-sua *Fender Musical Instruments Corporation* alla *Columbia Broadcasting
-Corporation* per 13 milioni di dollari.Nel 1970 egli lavorò per la Music
-Man e nel 1979 fondò la G&L con il suo vecchio amico George Fullerton.
-Lavorò lì fino alla sua morte, che lo colse il 21 marzo 1991 a causa di
-complicazioni di malattia di Parkinson. Dal momento della sua morte, il
-suo ufficio è rimasto intatto, una stanza vetrata in mezzo alla fabbrica
-con quaderni e libri "aperti"; nessuno vi entra, solo persone
-selezionate, per pulire, una volta al mese.
+Nome completo **Clarence Leonidas Fender** nato Anaheim, 10 agosto 1909,
+è stato un liutaio statunitense, costruttore di bassi e chitarre
+elettriche, insieme a Don Kaufmann e George Fullerton, è stato il
+fondatore della Fender Musical Instruments Corporation.Fender fin da
+molto piccolo si è interessato all’elettronica, subito dopo essersi
+laureato in economia iniziò a fare il contabile allo *State of
+California Highway Department* e successivamente avviò un'attività per
+la riparazione di apparecchi radio,che nel 1947 fu ampliata con batterie
+e chitarre Broadcaster che fu rapidamente ribattezzata **Telecaster**.
+La Telecaster ha attirato l'interesse di nuove generazioni di
+chitarristi. La costruzione separata di manico e corpo e la loro unione
+per mezzo di viti hanno diminuito in modo significativo i costi di
+produzione, rendendo accessibile a tutti l'acquisto di uno strumento di
+qualità. Poi ci fu nel 1954 l’innovazione della **Stratocaster** con il
+tremolo, grazie al quale si può avere un effetto innovativo.Nel 1965, in
+cattive condizioni di salute, Fender vendette la sua *Fender Musical
+Instruments Corporation* alla *Columbia Broadcasting Corporation* per 13
+milioni di dollari.Nel 1970 egli lavorò per la Music Man e nel 1979
+fondò la G&L con il suo vecchio amico George Fullerton, lavorò lì fino
+alla sua morte, che lo colse il 21 marzo 1991 a causa di complicazioni
+della malattia di Parkinson. Dal momento della sua morte, il suo ufficio
+è rimasto intatto, una stanza vetrata in mezzo alla fabbrica con
+quaderni e libri "aperti"; nessuno vi entra, solo persone selezionate,
+per pulire, una volta al mese.
 
-La chitarra è sempre stato uno strumento iconico per la musica Infatti
-c’è un quadro chiamato **Il vecchio chitarrista cieco** dipinto da
-**Pablo Picasso** il quale diede inizio ad una nuova corrente artistica
-che è il **Cubismo**.
-
-
+La chitarra è sempre stato uno strumento iconico, un esempio è
+rappresentato da un quadro chiamato “\ **Il vecchio chitarrista cieco”**
+dipinto da **Pablo Picasso** che diede inizio ad una nuova corrente
+artistica chiamata il **Cubismo**.
