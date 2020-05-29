@@ -42,14 +42,15 @@ rappresentato da un quadro chiamato “\ **Il vecchio chitarrista cieco”**
 dipinto da **Pablo Picasso** che diede inizio ad una nuova corrente
 artistica chiamata il **Cubismo**.
 
-Il nome Cubismo fu attribuito a questa corrente artistica dalla stampa
-Parigina in una recensione del dipinto di Braque in cui c’era una forte
-presenza di **cubi**, a proposito di cubi parlando di cubi molto famoso
-cioè il **cubo di Rubik** e un musicista chiamato **Michael Staff**.
+Il nome Cubismo fu attribuito a questa corrente artistica dalla stampa parigina in una 
+recensione del dipinto di Braque in cui c’era una forte presenza di **cubi**, 
+a proposito di cubi uno molto famoso è il **cubo di Rubik** e un musicista chiamato **Michael Staff** 
+che trovò un modo di risolvere il cubo semplicemente suonando.  
 
-Michael Staff vive a New York, che si trova negli **Stati Uniti
-d’America**, e proprio nel 51°stato degli USA, cioè Cuba, sono nati due
-balli molto famosi **il Boleros** e **Il Mambo**.
+Michael Staff vive a New York, negli **Stati Uniti d’America**. 
+
+Non lontano dagli USA, nelle acque dell’Oceano Atlantico possiamo trovare un’isola molto conosciuta che è **Cuba**, 
+lì sono nati due balli molto famosi il **Boleros** e Il **Mambo**.
 
 Proprio a Cuba ci fu un’importante crisi durante la **Guerra Fredda**
 dove si è rischiato di scatenare una guerra, nonostante la presenza
