@@ -1,18 +1,18 @@
 ========================
 La Musica
 ========================
-La musica è sempre stata parte integrante della nostra vita, per questo
-si possono trovare tracce di essa in ogni circostanza.Riesce a farci
-provare emozioni che una persona in carne ed ossa non riuscirebbe a
-fare.
+La musica è sempre stata parte integrante della nostra vita, 
+per questo si possono trovare tracce di essa in ogni circostanza.
+Riesce a farci provare emozioni che una persona in carne ed ossa non riuscirebbe a fare. 
 
-La musica è magia, riesce a trasportarci con l’anima e la mente in
-situazioni passate della nostra vita facendocele rivivere con la stessa
-intensità.
+La musica è magia, riesce a trasportarci con l’anima e la mente in situazioni 
+passate della nostra vita facendocele rivivere con la stessa intensità.
+La musica è anche una forma di linguaggio universale dove non esistono distinzioni di razza, di genere, 
+di età o di sesso, ma esiste soltanto qualcuno che suona e qualcuno che ascolta.
 
-La musica è anche una forma di linguaggio universale dove non esistono
-distinzioni di razza, di genere, di età o di sesso, ma esiste soltanto
-qualcuno che suona e qualcuno che ascolta.
+La musica per me è stata un supporto in vari momenti, mi fa tuttora volare via dalla 
+realtà e  pensare e ragionare su cosa fare in situazioni difficili. 
+La musica per me è come una compagna che ti dice sempre quello che vuoi sentire e non ti lascia mai sola.
 
 Ed è proprio la musica che ho scelto come argomento d’esame e filo
 conduttore degli argomenti che tratterò.
